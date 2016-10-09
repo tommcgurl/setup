@@ -1,0 +1,80 @@
+goby:
+  title: "Goby"
+  paths: [
+    "/Users/tommcgurl/chartbeat/frontend_ng/dragonet/dashboard"
+  ]
+cbp_dash:
+  title: "CBP Dashboard"
+  paths: [
+    "/Users/tommcgurl/chartbeat/frontend_ng/cbp/dashboard"
+  ]
+cbp_common:
+  title: "CBP Common"
+  paths: [
+    "/Users/tommcgurl/chartbeat/frontend_ng/cbp/common"
+  ]
+report_builder:
+  title: "Report Builder"
+  paths: [
+    "/Users/tommcgurl/chartbeat/frontend_ng/advertising/querybuilder_beta"
+  ]
+frontend_ng:
+  title: "Frontend_ng"
+  paths: [
+    "/Users/tommcgurl/chartbeat/frontend_ng"
+  ]
+common_react:
+  title: "common-react"
+  paths: [
+    "/Users/tommcgurl/chartbeat/frontend_ng/common-react"
+  ]
+chartbeat:
+  title: "Chartbeat"
+  paths: [
+    "/Users/tommcgurl/chartbeat"
+  ]
+chartbeat_utils:
+  title: "Chartbeat Utils"
+  paths: [
+    "/Users/tommcgurl/chartbeat/frontend_ng/util"
+  ]
+djangofly:
+  title: "Djangofly"
+  paths: [
+    "/Users/tommcgurl/chartbeat/djangofly"
+  ]
+elmwithrxjs:
+  title: "Elm With RxJS"
+  paths: [
+    "/Users/tommcgurl/Developer/Demos/elm/elmWithRxJS"
+  ]
+frontendlunchandlearn:
+  title: "Frontend Lunch And Learn"
+  paths: [
+    "/Users/tommcgurl/Developer/Demos/frontend-lunch-and-learn"
+  ]
+elixir:
+  title: "Elixir"
+  paths: [
+    "/Users/tommcgurl/Developer/Demos/elixir"
+  ]
+light_side:
+  title: "light-side"
+  paths: [
+    "/Users/tommcgurl/light-side"
+  ]
+tomgingerweddingsite:
+  title: "Tom Ginger Wedding Site"
+  paths: [
+    "/Users/tommcgurl/Developer/Demos/tom-ginger-wedding-site"
+  ]
+phoenixchat:
+  title: "Phoenix Chat"
+  paths: [
+    "/Users/tommcgurl/Developer/GitRepos/hackweekN/hackweek35/phoenix_chat"
+  ]
+phoenix_elm:
+  title: "Phoenix Elm"
+  paths: [
+    "/Users/tommcgurl/Developer/GitRepos/phoenix_elm_jukebox"
+  ]

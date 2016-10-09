@@ -1,0 +1,33 @@
+"*":
+  "atom-material-ui":
+    colors:
+      predefinedColor: "Orange"
+  "atom-pair":
+    pusher_app_key: "34733693305e39d83096"
+    pusher_app_secret: "4fc3fad36854640bb58a"
+  core:
+    customFileTypes:
+      "source.css": [
+        "cssm"
+      ]
+    disabledPackages: [
+      "wrap-guide"
+      "atom-terminal"
+      "vim-mode-plus"
+    ]
+    themes: [
+      "atom-material-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontSize: 11
+    scrollPastEnd: true
+  "exception-reporting":
+    userId: "33abf584-a4ee-35cf-e652-7209b53b20b9"
+  "language-elm":
+    autocompleteEnabled: false
+  "todo-show": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
