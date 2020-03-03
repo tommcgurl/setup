@@ -15,6 +15,11 @@
 ## Setting up Terminal
 * Follow [this guide](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961)
 
+## Things to Set up on New Machine
+* Enable using the keyboard to navigate 
+
+<img width="50%" src="./README-assets/keyboard-navigation.png">
+
 ## What to Install on a New Machine
 
 1. Homebrew
