@@ -20,6 +20,11 @@
 
 <img width="50%" src="./README-assets/keyboard-navigation.png">
 
+* Enable the keyboard shortcut for _inverting colors_ `⌃⌥⌘8`
+
+<img width="50%" src="./README-assets/invert-colors-shortcut.png">
+
+
 ## What to Install on a New Machine
 
 1. Homebrew
