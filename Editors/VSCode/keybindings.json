@@ -1,0 +1,67 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "ctrl+shift+b",
+    "command": "workbench.action.toggleActivityBarVisibility"
+  },
+  {
+    "key": "cmd+0",
+    "command": "workbench.files.action.focusFilesExplorer",
+  },
+  {
+    "key": "cmd+\\",
+    "command": "workbench.action.toggleSidebarVisibility"
+  },
+  {
+    "key": "cmd+shift+\\",
+    "command": "workbench.action.toggleActivityBarVisibility"
+  },
+  {
+    "key": "cmd+shift+f",
+    "command": "filesExplorer.findInWorkspace"
+  },
+  {
+    "key": "cmd+0",
+    "command": "workbench.action.focusActiveEditorGroup",
+    "when": "filesExplorerFocus"
+  },
+  {
+    "key": "m",
+    "command": "renameFile",
+    "when": "explorerViewletVisible && filesExplorerFocus && !inputFocus"
+  },
+  {
+    "key": "enter",
+    "command": "list.select",
+    "when": "explorerViewletVisible && filesExplorerFocus && !inputFocus"
+  },
+  {
+    "key": "a",
+    "command": "explorer.newFile",
+    "when": "explorerViewletVisible && filesExplorerFocus && !inputFocus"
+  },
+  {
+    "key": "shift+a",
+    "command": "explorer.newFolder",
+    "when": "explorerViewletVisible && filesExplorerFocus && !inputFocus"
+  },
+  {
+    "key": "cmd+k cmd+n",
+    "command": "workbench.action.focusRightGroup",
+  },
+  {
+    "key": "cmd+down",
+    "command": "search.action.focusSearchList",
+    "when": "sideBarFocus && activeViewlet == 'workbench.view.search'",
+  },
+  {
+    "key": "shift+cmd+]",
+    "command": "workbench.action.nextPanelView",
+    "when": "panelFocus"
+  },
+  {
+    "key": "shift+cmd+[",
+    "command": "workbench.action.previousPanelView",
+    "when": "panelFocus"
+  }
+]

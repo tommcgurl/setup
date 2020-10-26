@@ -1,0 +1,106 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+  },
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "editor.cursorBlinking": "solid",
+  "workbench.activityBar.visible": false,
+  "window.zoomLevel": -1,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": [
+        "j",
+        "j"
+      ],
+      "after": [
+        "<Esc>"
+      ]
+    }
+  ],
+  "vim.overrideCopy": false,
+  "vim.useSystemClipboard": true,
+  "vim.ignorecase": true,
+  "workbench.list.automaticKeyboardNavigation": false,
+  "terminal.integrated.fontFamily": "Jetbrains Mono",
+  "terminal.integrated.fontSize": 14,
+  "workbench.sideBar.location": "left",
+  "editor.minimap.enabled": false,
+  "powermode.enabled": false,
+  "workbench.colorCustomizations": {
+    // "editorGroup.border": "#282C34",
+    // "editorGroup.emptyBackground": "#282C34",
+    // "editorGroup.dropBackground": "#282C34",
+    // "editorGroupHeader.tabsBorder": "#282C34",
+    // "editorGroupHeader.tabsBackground": "#282C34",
+    // "editorGroup.focusedEmptyBorder": "#282C34",
+    // "list.inactiveFocusBackground": "#282C34",
+    // "sideBar.background": "#282C34",
+    // "tab.border": "#282C34",
+    // "tab.activeBackground": "#282C34",
+    // "tab.inactiveBackground": "#282C34",
+    // "tab.inactiveBorder": "#282C34",
+    // "terminal.ansiBlack": "#000"
+  },
+  "vscode_custom_css.imports": [
+    // "file:///Users/tommcgurl/synthwave84.css"
+  ],
+  "editor.renderIndentGuides": false,
+  "sync.gist": "98f2b50a45e630d1d51578c007570d59",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "files.associations": {
+    "*.cssm": "css"
+  },
+  "[css]": {},
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.associations.files": [
+    {
+      "icon": "storybook",
+      "extensions": [],
+      "filenamesGlob": [
+        "story",
+        "stories"
+      ],
+      "extensionsGlob": [
+        "mdx",
+        "js",
+        "jsx",
+        "ts",
+        "tsx"
+      ],
+      "format": "FileFormat.svg",
+    }
+  ],
+  "[HTML (Eex)]": {},
+  "editor.fontFamily": "Jetbrains Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+  },
+  "[rust]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+  },
+  "vsicons.dontShowNewVersionMessage": true,
+  "todo-tree.tree.showScanModeButton": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "All Hallows' Eve Plus",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
