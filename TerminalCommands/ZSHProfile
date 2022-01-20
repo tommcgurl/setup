@@ -81,6 +81,17 @@ plugins=(
 
 source $ZSH/oh-my-zsh.sh
 
+# Alias Functions
+find_port() {
+    echo "Processess runnin on $1"
+    sudo lsof -i :$1
+}
+
+find_process() {
+    echo "Finding process with search term: $1"
+    ps -ax | grep $1
+}
+
 # User configuration
 alias editbp='vim ~/.bash_profile'
 alias editzp='vim ~/.zshrc'
